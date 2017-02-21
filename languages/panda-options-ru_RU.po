@@ -1,0 +1,146 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"Project-Id-Version: Panda Options Framework\n"
+"POT-Creation-Date: 2017-01-11 19:54+0300\n"
+"PO-Revision-Date: 2017-01-11 19:59+0300\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.11\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: panda-options-framework.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Last-Translator: \n"
+"Language: ru_RU\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: classes/class.pof.php:521 classes/class.pof.php:522
+msgid "Theme Options"
+msgstr "Опции темы"
+
+#: classes/class.pof.php:623
+msgid "Options saving..."
+msgstr "Сохранение опций..."
+
+#: classes/class.pof.php:624
+msgid "Options updated"
+msgstr "Опции сохранены"
+
+#: classes/class.pof.php:625
+msgid "Error in system"
+msgstr "Ошибка в системе"
+
+#: classes/class.pof.php:626
+msgid "Backup creating..."
+msgstr "Создание резервной копии..."
+
+#: classes/class.pof.php:627
+msgid "Backup created"
+msgstr "Резервная копия создана"
+
+#: classes/class.pof.php:628
+msgid "Backup deleting..."
+msgstr "Удаление резервной копии..."
+
+#: classes/class.pof.php:629
+msgid "Backup deleted"
+msgstr "Резервная копия удалена"
+
+#: classes/class.pof.php:630
+msgid "Options restoring..."
+msgstr "Восстановление опции..."
+
+#: classes/class.pof.php:631
+msgid "Options restored"
+msgstr "Опции восстановлены"
+
+#: classes/class.pof.php:632
+msgid "Updating backups list..."
+msgstr "Обновление списка копии..."
+
+#: classes/class.pof.php:633
+msgid "Backups updated"
+msgstr "Список обновлен"
+
+#: classes/class.pof.php:634
+msgid "Updating options values..."
+msgstr "Обновление опции..."
+
+#: classes/class.pof.php:635
+msgid "Upload image"
+msgstr "Загрузить изображение"
+
+#: classes/class.pof.php:636 classes/fields/class.pof-uploader-field.php:83
+msgid "Upload"
+msgstr "Загрузить"
+
+#: classes/class.pof.php:791
+msgid "Save"
+msgstr "Сохранить"
+
+#: classes/class.pof.php:950
+msgid ""
+"<p>Welcome to <b>Panda Options Framework</b> starter panel!</p><p>To start "
+"using this awesome product you should define your custom fields.</"
+"p><p>Please check this"
+msgstr ""
+"<p>Добро пожаловать на стартовую панель <b>Panda Options Framework</b>!</"
+"p><p>Чтобы начать использовать этот удивительный продукт необходимо "
+"определить настраиваемые поля.</p><p>Пожалуйста, прочтите это"
+
+#: classes/class.pof.php:950
+msgid "documentation"
+msgstr "руководство"
+
+#: classes/class.pof.php:950
+msgid "if you have issues with settings!</p>"
+msgstr "если у вас есть вопросы по созданию настроек!</p>"
+
+#: classes/fields/class.pof-backup-field.php:204
+msgid "Options not defined..."
+msgstr "Опции отсутствуют..."
+
+#: classes/fields/class.pof-backup-field.php:212
+msgid "Create backup"
+msgstr "Создать копию"
+
+#: classes/fields/class.pof-backup-field.php:216
+msgid "Insert options"
+msgstr "Вставить опции"
+
+#: classes/fields/class.pof-backup-field.php:398
+msgid "%m.%d.%Y - %I:%M %p"
+msgstr "%d.%m.%Y - %R"
+
+#: classes/fields/class.pof-backup-field.php:402
+#: classes/fields/class.pof-uploader-field.php:93
+msgid "Delete"
+msgstr "Удалить"
+
+#: classes/fields/class.pof-backup-field.php:403
+msgid "Restore"
+msgstr "Восстановить"
+
+#: classes/fields/class.pof-googlefont-field.php:104
+#: classes/fields/class.pof-googlefont-field.php:229
+msgid "Not choosen"
+msgstr "Не выбран"
+
+#. Plugin Name of the plugin/theme
+msgid "Panda Options Framework"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Theme Options Plugin"
+msgstr "Плагин опций для тем"
+
+#. Author of the plugin/theme
+msgid "Uncleserj"
+msgstr ""
