@@ -96,3 +96,4 @@ if ( ! class_exists( 'Panda_Options_Infobox_Field' ) ) {
 	}
 	
 }
+?>
