@@ -92,3 +92,4 @@ if ( ! class_exists( 'Panda_Options_Text_Field' ) ) {
 	}
 	
 }
+?>
