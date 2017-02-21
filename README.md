@@ -1,5 +1,6 @@
-![logo](https://cloud.githubusercontent.com/assets/8569893/23181530/5b554f2a-f886-11e6-816d-12c2d0fb2998.png?style=centerme)
-
+<p align="center">
+  <img src="https://cloud.githubusercontent.com/assets/8569893/23181530/5b554f2a-f886-11e6-816d-12c2d0fb2998.png"/>
+</p>
 Panda Options Framework Plugin
 ==============================
 
