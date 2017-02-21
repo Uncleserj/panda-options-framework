@@ -58,3 +58,4 @@ if ( ! class_exists( 'Panda_Options_Tags_Field' ) && class_exists( 'Panda_Option
 	}
 	
 }
+?>
