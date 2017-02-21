@@ -112,3 +112,4 @@ if ( ! class_exists( 'Panda_Options_Stars_Field' ) ) {
 	}
 	
 }
+?>
