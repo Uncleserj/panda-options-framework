@@ -117,3 +117,4 @@ if ( ! class_exists( 'Panda_Options_Tabs_Field' ) ) {
 	}
 	
 }
+?>
