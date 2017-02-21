@@ -78,3 +78,4 @@ if ( ! class_exists( 'Panda_Options_Textarea_Field' ) ) {
 	}
 	
 }
+?>
