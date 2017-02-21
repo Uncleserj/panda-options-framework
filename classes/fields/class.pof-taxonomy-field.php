@@ -104,3 +104,4 @@ if ( ! class_exists( 'Panda_Options_Taxonomy_Field' ) ) {
 	}
 	
 }
+?>
