@@ -91,3 +91,4 @@ if ( ! class_exists( 'Panda_Options_Switch_Field' ) ) {
 	}
 	
 }
+?>
