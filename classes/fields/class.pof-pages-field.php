@@ -106,3 +106,4 @@ if ( ! class_exists( 'Panda_Options_Pages_Field' ) ) {
 	}
 	
 }
+?>
