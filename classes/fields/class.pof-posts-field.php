@@ -105,3 +105,4 @@ if ( ! class_exists( 'Panda_Options_Posts_Field' ) ) {
 	}
 	
 }
+?>
