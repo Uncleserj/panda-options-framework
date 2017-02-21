@@ -93,3 +93,4 @@ if ( ! class_exists( 'Panda_Options_Checkbox_Field' ) ) {
 	}
 	
 }
+?>
