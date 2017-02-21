@@ -107,3 +107,4 @@ if ( ! class_exists( 'Panda_Options_Imageradio_Field' ) ) {
 	}
 	
 }
+?>
