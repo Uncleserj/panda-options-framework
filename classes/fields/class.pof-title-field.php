@@ -68,4 +68,3 @@ if ( ! class_exists( 'Panda_Options_Title_Field' ) ) {
 	
 }
 ?>
-
