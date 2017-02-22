@@ -951,7 +951,7 @@ class Panda_Options {
 			'type' => 'html',
 			'align' => 'center',
 			'id' => 'html',
-			'html' => __( '<p>Welcome to <b>Panda Options Framework</b> starter panel!</p><p>To start using this awesome product you should define your custom fields.</p><p>Please check this', POF_LANG ) . ' ' . '<a href="' . pof_get_uri() . 'documentation/">' . __( 'documentation', POF_LANG ) . '</a>' . ' ' . __('if you have issues with settings!</p>', POF_LANG )
+			'html' => __( '<p>Welcome to <b>Panda Options Framework</b> starter panel!</p><p>To start using this awesome product you should define your custom fields.</p><p>Please check this', POF_LANG ) . ' ' . '<a href="https://github.com/Uncleserj/panda-options-framework/wiki/Documentation">' . __( 'documentation', POF_LANG ) . '</a>' . ' ' . __('if you have issues with settings!</p>', POF_LANG )
 		);
 				
 		$this->starter = true;
