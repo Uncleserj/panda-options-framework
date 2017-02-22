@@ -56,7 +56,7 @@ If your theme already has options enabled, they will show up under the appearanc
 If your theme doesn't have options, you can define them to <code>fields.php</code> of your theme and they will instantly show up.
 
 Documentation
-=============
+-------------
 Check out this <a href="https://github.com/Uncleserj/panda-options-framework/wiki/Documentation">documentation</a>
 
 Frequently asked questions
