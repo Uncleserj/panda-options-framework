@@ -55,7 +55,7 @@ Installation
 
 If your theme already has options enabled, they will show up under the appearance menu.
 
-If your theme doesn't have options, you can define them to <code>fields.php</code> of your theme and they will instantly show up.
+If your theme doesn't have any options, you can define them in <code>fields.php</code> of your theme folder.
 
 Documentation
 -------------
