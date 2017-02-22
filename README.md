@@ -1,7 +1,9 @@
 <p align="center">
   <img src="https://cloud.githubusercontent.com/assets/8569893/23181530/5b554f2a-f886-11e6-816d-12c2d0fb2998.png"/>
 </p>
-
+<p align="center">
+[![DOI](https://zenodo.org/badge/82707472.svg)](https://zenodo.org/badge/latestdoi/82707472)
+</p>
 Panda Options Framework Plugin for Wordpress allows you to create custom options panel with rich functionality. 
 Very ease to setup and use in your theme.
 
