@@ -61,7 +61,23 @@ Documentation
 -------------
 Check out this <a href="https://github.com/Uncleserj/panda-options-framework/wiki/Documentation">documentation</a>.
 
-Frequently asked questions
---------------------------
-
 If you have trouble with setup, please contact me on <a href="mailto:serj@serj.pro">serj@serj.pro</a>.
+
+Screenshots
+-----------
+<p align="center">
+  <img src="https://cloud.githubusercontent.com/assets/8569893/23213869/bed9b832-f91d-11e6-8e82-76234949535f.jpg"/>
+</p>
+<p align="center">
+  <img src="https://cloud.githubusercontent.com/assets/8569893/23213882/c43f6e0c-f91d-11e6-80d1-ec49721d66bc.jpg"/>
+</p>
+<p align="center">
+  <img src="https://cloud.githubusercontent.com/assets/8569893/23213886/c5baec84-f91d-11e6-98f3-4cb93eb5ccfe.jpg"/>
+</p>
+<p align="center">
+  <img src="https://cloud.githubusercontent.com/assets/8569893/23213889/c73a17ba-f91d-11e6-8734-11c0b8b4d4c5.jpg"/>
+</p>
+<p align="center">
+  <img src="https://cloud.githubusercontent.com/assets/8569893/23213892/c83415d0-f91d-11e6-9840-ac0263b664e8.jpg"/>
+</p>
+
