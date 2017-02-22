@@ -57,9 +57,9 @@ If your theme doesn't have options, you can define them to <code>fields.php</cod
 
 Documentation
 -------------
-Check out this <a href="https://github.com/Uncleserj/panda-options-framework/wiki/Documentation">documentation</a>
+Check out this <a href="https://github.com/Uncleserj/panda-options-framework/wiki/Documentation">documentation</a>.
 
 Frequently asked questions
 --------------------------
 
-If you have trouble with setup, please contact me on <a href="mailto:serj@serj.pro">serj@serj.pro</a>
+If you have trouble with setup, please contact me on <a href="mailto:serj@serj.pro">serj@serj.pro</a>.
