@@ -2,11 +2,11 @@
   <img src="https://cloud.githubusercontent.com/assets/8569893/23181530/5b554f2a-f886-11e6-816d-12c2d0fb2998.png"/>
 </p>
 <p align="center">
-  <a href="https://doi.org/10.5281/zenodo.321603"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.321603.svg" alt="DOI"></a>
   <a href="https://github.com/Uncleserj/panda-options-framework"><img src="https://img.shields.io/github/release/uncleserj/panda-options-framework.svg" alt="Release"> 
   </a>
   <a href="https://github.com/Uncleserj/panda-options-framework"><img src="https://img.shields.io/github/license/uncleserj/panda-options-framework.svg" alt="MIT License"> 
 </a>
+  <a href="https://doi.org/10.5281/zenodo.321603"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.321603.svg" alt="DOI"></a>
 </p>
 Panda Options Framework Plugin for Wordpress allows you to create custom options panel with rich functionality. 
 Very ease to setup and use in your theme.
