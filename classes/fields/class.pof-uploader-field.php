@@ -43,8 +43,8 @@ if ( ! class_exists( 'Panda_Options_Uploader_Field' ) ) {
 					wp_register_style( 'pof-uploader-field', __FILE__ ); ?>
 			
 					<style id="pof-uploader-field-css" type="text/css">
-						<?php echo '.' . $this->main_css_class . ' .u-theme-uploader-button {background-color: ' . $admin_colors[3] . '}'; ?>
-						<?php echo '.' . $this->main_css_class . ' .u-theme-uploader-button-delete {background-color: ' . $admin_colors[3] . '}'; ?>
+						<?php echo '.' . $this->main_css_class . ' .pof-uploader-button {background-color: ' . $admin_colors[3] . '}'; ?>
+						<?php echo '.' . $this->main_css_class . ' .pof-uploader-button-delete {background-color: ' . $admin_colors[3] . '}'; ?>
 					</style>
 			
 			<?php }
@@ -83,13 +83,14 @@ if ( ! class_exists( 'Panda_Options_Uploader_Field' ) ) {
 					<i class="icon-upload pof-uploader-icon"></i> <?php _e( 'Upload', POF_LANG ); ?>
 				</button>
 				
+				<?php if ( isset( $field->desc ) ) { ?>
 				<label class="<?php echo $field->type; ?>-label" for="<?php echo $field->name; ?>"><?php echo $this->get_sanitized_text( $field->desc ); ?></label>
-				<?php
+				<?php }
 					
 				if ( isset( $options[$field->name] ) && esc_attr( $options[$field->name] ) ) {
 					?>
 					<p class='pof-upload-link'><i class='icon-link'></i> <?php echo esc_url( $options[$field->name] ); ?></p>
-					<button type="button" class='u-theme-button pof-uploader-button-delete'>
+					<button type="button" class='pof-button pof-uploader-button-delete'>
 						<i class='icon-block pof-uploader-icon'></i> <?php _e( 'Delete', POF_LANG ); ?>
 					</button>
 					<?php 
